@@ -3,8 +3,10 @@ public class Main {
 	
 	public static void main(String[] args)
 	{  
-		Card[] cardarr1 = (Card[]) new Card[3];
-		Card[] cardarr2 = (Card[]) new Card[3];
+		ArrayList<Card> cardarr1 = new ArrayList<Card>();
+		ArrayList<Card> cardarr2 = new ArrayList<Card>();
+		//Card[] cardarr1 = (Card[]) new Card[3];
+		//Card[] cardarr2 = (Card[]) new Card[3];
 	
 		
 		System.out.println("-----------------Intial Information for both Players------------------");
@@ -38,6 +40,7 @@ public class Main {
 		p2.diefunc();
 		
 		//cardarr1= ArrayUtils.remove(cardarr1,2);
+		cardarr1.remove(cardarr1.size()-1);
 		 
 		System.out.println("------Player1's Cards afterwards------");
 			p1.displayCardArray();
