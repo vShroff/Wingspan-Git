@@ -8,7 +8,8 @@ import java.util.Scanner;
 public class Player {
 	
 		private int number;
-	    private Card[] arr;
+	    //private Card[] arr;
+	    ArrayList<Card> arr = new ArrayList<Card>();
 	    private int size=3; //max size of array
 	 
 		
@@ -27,7 +28,7 @@ public class Player {
 		 	return number;
 	    	  
 	      }
-		void setCard(Card[] ar)
+		void setCard(ArrayList<Card> ar)
 		{
 			arr = ar;
 		}
