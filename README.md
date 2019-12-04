@@ -34,3 +34,8 @@ The player who wins a round is given a point and at the end the player with maxi
 
 
 ![image description](https://media.nature.com/w800/magazine-assets/d41586-019-01503-0/d41586-019-01503-0_16711570.jpg)
+
+
+image sources:
+1)https://cdn.shopify.com/s/files/1/0900/3540/products/3d-wingspan_1024x1024.png?v=1551978393
+2)https://media.nature.com/w800/magazine-assets/d41586-019-01503-0/d41586-019-01503-0_16711570.jpg
