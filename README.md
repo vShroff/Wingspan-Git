@@ -1,6 +1,6 @@
 
 # **Wingspan**
-This is a game that me and my team are currently working on for our software engineering class (Fall' 2019). 
+This is a game that our team is currently working on for our software engineering class (Fall' 2019). 
 
 ## The rules of the game can we found out online but here is a short description of the game
 
