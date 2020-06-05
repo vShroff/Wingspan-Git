@@ -1,6 +1,6 @@
 
 # **Wingspan**
-This is a game that our team is currently working on for our software engineering class (Fall' 2019). 
+This project is part of software engineering class we studied at Cal State East Bay. 
 
 ## The rules of the game can we found out online but here is a short description of the game
 
